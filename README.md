@@ -16,16 +16,11 @@ EDU-API is for the EDU Q&A platform where people can ask questions andprovide re
 
 ### Contributors
 
-1. [Iden](https://github.com/kallyas)
-2. [Dipan](https://github.com/diphan-source)
-3. [Jane Aguti](https://github.com/jane2k)
-4. [A. Isaac](https://github.com/Eyezoh)
-5. [S. Samuel](https://github.com/ssendisamuel)
-6. [S. Akullu](https://github.com/sarahakullu)
+[A. Isaac](https://github.com/Eyezoh)
+
 
 ### Leading Facilitator
 
-[David Buyinza](https://github.com/davidgoodson)
 
 ### License
 
